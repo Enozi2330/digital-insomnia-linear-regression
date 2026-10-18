@@ -103,4 +103,4 @@ Potential extensions include fitting a Multiple Linear Regression model, checkin
 
 **Carl Dennis Manrique**
 
-This project was developed for learning and portfolio purposes as part of my ongoing work in statistics, data analysis, and predictive modeling.
+This project was developed for learning and portfolio purposes as part of my ongoing work in statistics, data analysis, and predictive modeling for my Graduate Diploma in Data Science. 
