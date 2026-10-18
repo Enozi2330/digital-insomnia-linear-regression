@@ -74,7 +74,7 @@ Suggested repository structure:
 digital-insomnia-linear-regression/
 ├── README.md
 ├── digital_insomnia_slrm.ipynb
-└── sleep_debt_screen_time.csv  # Include only if redistribution is permitted
+└── sleept.csv # A trimmed data set of sleep_debt_screen_time.csv. Include only if redistribution is permitted
 ```
 
 The notebook contains the code, visualizations, statistical analysis, model comparisons, and conclusions. If the dataset is not redistributed with this repository, download it from the Kaggle source linked above and update the notebook's data-loading path as needed.
